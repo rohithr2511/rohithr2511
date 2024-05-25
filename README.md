@@ -1,3 +1,4 @@
+![logo]
 <h1 align="center">Hi 👋, I'm P Rohith Raveendran</h1>
 <h3 align="center">Motivated recent graduate with a passion for data analysis and a willingness to learn.</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.Rf9WaYtDWjDzYBdtA3RwEAHaFj?rs=1&pid=ImgDetMain">
